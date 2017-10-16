@@ -1,0 +1,81 @@
+
+h1 {
+    color: purple;
+    font-style: italic;
+}
+h2 {
+    color: darkblue;
+    font-style: oblique;
+}
+
+h3 {
+    color: deeppink;
+    font-style: inherit;
+}
+
+
+strong {
+    color: red;
+    font-style: italic;
+}
+
+
+#header {
+    height: 30px;
+    color: black;
+    font-size: x-large;
+
+}
+#footer {
+    color: black;
+    bottom: 0;
+    font-size: x-large;
+
+}
+
+
+li p strong {
+    color: forestgreen;
+}
+
+#blog_comment {
+    height: 400px;
+    width: 1300px;
+}
+
+.past {
+    float:left;
+    width:650px;
+}
+.yours {
+    float:right;
+    width:600px;
+}
+
+.pastfieldset {
+    color: orangered;
+    font-style: italic;
+}
+
+.yoursfiledset {
+    color: orangered;
+    font-style: italic;
+}
+
+#PastContent {
+    color: black;
+}
+
+#commentState {
+    color: fuchsia;
+}
+
+#ym {
+    color: orangered;
+    font-size: large;
+}
+
+#pm {
+    color: orangered;
+    font-size: large;
+}

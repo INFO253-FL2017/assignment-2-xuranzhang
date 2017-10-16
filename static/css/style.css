@@ -1,3 +1,43 @@
+.wrapper {
+    height: 100vh;
+    display: flex;
+
+    /* Direction of the items, can be row or column */
+    flex-direction: column;
+}
+
 h1 {
-	color: blue;
+    color: purple;
+    font-style: italic;
+}
+
+h2 {
+    color: deeppink;
+    font-size: large;
+    font-style: oblique;
+}
+
+
+header {
+    height: 30px;
+    font-size: x-large;
+
+}
+
+p {
+    color: blue;
+    font-style: inherit;
+    font-size: large;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    font-size: x-large;
+
+
+}
+
+#contact_us_notice {
+    color: red;
+    font-style: italic;
 }
